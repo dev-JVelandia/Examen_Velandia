@@ -1,0 +1,33 @@
+[
+    {
+        "dia": "Lunes",
+        "eventos": [
+            {
+                "materia": "m",
+                "hora_inicio": "6:00",
+                "hora_fin": "7:00",
+                "ubicacion": "12"
+            }
+        ]
+    },
+    {
+        "dia": "Martes",
+        "eventos": []
+    },
+    {
+        "dia": "Miercoles",
+        "eventos": []
+    },
+    {
+        "dia": "Jueves",
+        "eventos": []
+    },
+    {
+        "dia": "Viernes",
+        "eventos": []
+    },
+    {
+        "dia": "Sabado",
+        "eventos": []
+    }
+]
